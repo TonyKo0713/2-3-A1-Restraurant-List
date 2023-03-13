@@ -20,7 +20,6 @@
 <li>在 Terminal 輸入 npm install
 <li>在 Terminal 輸入 nodemon app.js 指令, 若在terminal上出現"this web is running on https://localhost:3000", 代表程式已正常運行
 <li>到瀏覽器上輸入網址"https://localhost:3000</li>
-<li>express 4.18.2
 </ol>
 
 <h2>Environment SetUp - 環境建置</h2>
